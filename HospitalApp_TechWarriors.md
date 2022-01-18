@@ -66,9 +66,21 @@ store images and pdfs.
 - [x] Call
 - [x] Generating Report
 - [x] Adding and deleting doctors 
-- [ ] Editing profile
-- [ ] Theme changing
 
+## Usage
+1. To use the app clone the repo.
+2. Then run the application in VS Code or Android Studio using an 
+   android emulator or an android phone or an IOS phone.
+3. Then register yourself in the app.
+4. If you are a Hospital then register yourself in the Hospital section using your email-Id.
+5. If you are a Patient then register yourself in the patient section using your email-Id.
+6. In the patient section you will see the list of hospitals from where you can select any hospital you wish to admit.
+7. After clicking on the hospital of your choice you will see the list of doctors in the hospital with their specialization.
+8. You can book an appointment by clicking on the 'Get appointment' button.
+9. You can also book your appointment by directly calling to hospital using calling feature or by messaging the hospital.
+10. For doctors they have to login in their respective hospitals using hospital credentials.
+11. Where they can see appointments of all the doctors in 'Appointments' section.
+12. They can also see the reports in reports section.  
 
 ## Application
 
@@ -91,13 +103,13 @@ quality medication to patients.
 
 ## Onboarding Screens
 
-<img src="https://drive.google.com/uc?export=view&id=1j4rjRw-AkyBx38c0i2Dwa9sqDFwjvKva"  width="250" height="540"/>  
+<img src="https://drive.google.com/uc?export=view&id=1cFLjQwY2jeBxSXh8dhpYbtjArJWfa5lx"  width="250" height="540"/>  
 
 
 
 ## Authentication Screens
 
-<img src="https://drive.google.com/uc?export=view&id=1w545OKpztlpXipP3CwMdFseqhfBSIA9X"  width="250" height="540"/>  <img src= "https://drive.google.com/uc?export=view&id=1w545OKpztlpXipP3CwMdFseqhfBSIA9X"  width="250" height="540"/>
+<img src="https://drive.google.com/uc?export=view&id=1cFLjQwY2jeBxSXh8dhpYbtjArJWfa5lx"  width="250" height="540"/>  <img src= "https://drive.google.com/uc?export=view&id=1w545OKpztlpXipP3CwMdFseqhfBSIA9X"  width="250" height="540"/>
 
 
 
